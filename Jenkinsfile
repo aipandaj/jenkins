@@ -25,9 +25,6 @@ pipeline {
                 python3 hello.py
 <<<<<<< HEAD
                 python3 hello.py --name=Johannes Eita Aipanda
-=======
-                python3 hello.py --name=Johannes
->>>>>>> b54dc3b3695ef770ed2f719bd978c771a98a4773
                 '''
             }
         }
